@@ -1,2 +1,2 @@
-Roll the dice and challenge your friend in this exciting two-player game where each player rolls a die, and the highest score wins!
+Roll the dice and test your luck! In this exciting two-player game, each player rolls a die, and whoever scores higher wins. Refresh the page to roll the dice and see who comes out on top!
 
